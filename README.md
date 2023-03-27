@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegomaldonadofrontdev&show_icons=true&locale=en" alt="diegomaldonadofrontdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegomaldonadofrontdev&" alt="diegomaldonadofrontdev" /></p>
+
